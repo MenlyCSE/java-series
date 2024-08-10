@@ -2,10 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        greetUser("John", "Menly");
+    }
 
-        // for each
-        String[] fruits = {"Apple", "Mango", "Orange", "Strawberries"};
-        for (String fruit : fruits)
-            System.out.println(fruit);
+    // new method
+    public static void greetUser(String firstName, String lastName) {
+        System.out.println("Hi, " + firstName + " " + lastName + "!");
     }
 }
