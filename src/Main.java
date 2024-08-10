@@ -9,6 +9,7 @@ public class Main {
         System.out.println("end");
     }
 
+    // part one completed
     public static void printNumbers(int limit) {
         for (int i = 0; i <= limit; i++)
             System.out.println(i);
