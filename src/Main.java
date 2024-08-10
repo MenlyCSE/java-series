@@ -2,11 +2,15 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        greetUser("John", "Menly");
+
+        // debugging
+        System.out.println("Start");
+        printNumbers(4);
+        System.out.println("end");
     }
 
-    // new method
-    public static void greetUser(String firstName, String lastName) {
-        System.out.println("Hi, " + firstName + " " + lastName + "!");
+    public static void printNumbers(int limit) {
+        for (int i = 0; i < limit; i += 2)
+            System.out.println(i);
     }
 }
