@@ -2,5 +2,5 @@
  
 From [CodeWithMosh's](https://members.codewithmosh.com/) certification program...
 
-<!-- ## Fundamentals -->
-<!-- <img width="842" alt="0" src="https://github.com/user-attachments/assets/eaba83cd-3ca6-4d26-9e58-4b2f0d48ca49"> -->
+## Fundamentals
+![certificate-of-completion-for-ultimate-java-part-1-fundamentals](https://github.com/user-attachments/assets/a51bac16-006f-4b18-986a-b375ec674a06)
